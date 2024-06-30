@@ -1,2 +1,2 @@
 # this is my local repo 
-this is the code for Ai-virtual assistance which is created using navie bayes algorithm
+this is the code for Ai-virtual assistance which is created using navie bayes algorithm. It works when user watches an object on his device more time it suggest that item to the person when it is for low price.
